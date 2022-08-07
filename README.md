@@ -22,7 +22,8 @@ This project consisted of providing an analysis of ride sharing data.  The inten
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
 
-#insert dataframe by type
+
+<img width="458" alt="Dataframe" src="https://user-images.githubusercontent.com/106936638/183309742-9e45a093-f3cd-40fd-83fa-453587aa866b.PNG">
 
 
 #insert chart by week
