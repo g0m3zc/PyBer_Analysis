@@ -16,7 +16,13 @@ This project consisted of providing an analysis of ride data through the followi
 - Jupiter Notebook
 - Matplotlib
 
+## Results
+
+Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
+
 ## Summary:
 These findings are 
 
-
+provide three business recommendations to the CEO for addressing any disparities among the city types.
+ for addressing any disparities among the city types.
